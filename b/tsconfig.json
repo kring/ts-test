@@ -1,0 +1,13 @@
+{
+    "compilerOptions": {
+        "declaration": true,
+        "composite": true,
+        "outDir": "dist",
+        "rootDir": "src"
+    },
+    "references": [
+        {
+            "path": "../a"
+        }
+    ]
+}
